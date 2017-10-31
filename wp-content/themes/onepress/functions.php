@@ -1,5 +1,8 @@
 <?php
 /**
+
+testes deploy para wordpress 
+
  * OnePress functions and definitions.
  *
  * @link https://developer.wordpress.org/themes/basics/theme-functions/
