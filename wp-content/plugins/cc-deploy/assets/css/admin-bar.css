@@ -1,0 +1,4 @@
+#wpadminbar #wp-admin-bar-cc-deploy .ab-icon:before {
+    content: '\f463';
+    top: 3px;
+}
